@@ -1,12 +1,7 @@
-## Hi there 👋
+## Team Overview
 
-<!--
+  We are team 11781, or as we call ourselves, MVS Rambotics, a title inspired by our mascot, Marti the ram, and this is our seventh year competing within the ranks of FTC. Our team is comprised of 18 students and 2 faculty coaches from The Miami Valley School, a small, pre-k to 12 independent school in Dayton, Ohio. With our entire high school’s population sitting at 162 students, the level of interest our club attracts is a testament to our collaborative and engaging atmosphere. In terms of team culture, we aim to foster creativity, innovation, and cooperation both within our team workspace and amongst our mentors and mentees.
 
-**Here are some ideas to get you started:**
+## Also...
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Go check out team 14365 Summit Knights! You can find them at the SCD Robotics oorganization right here on GitHub.
