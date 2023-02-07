@@ -4,4 +4,4 @@
 
 ## Also...
 
-Go check out team 14365 Summit Knights! You can find them at the SCD Robotics oorganization right here on GitHub.
+Go check out team 14365 Summit Knights! You can find them at the SCD Robotics organization right here on GitHub.
