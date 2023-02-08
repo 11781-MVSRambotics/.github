@@ -29,5 +29,5 @@ If you're just interested in tracking our progress during the season, you can vi
 ## Team Discord
 
 <p>
-If "official" or "formal" communication isn't your style (we wouldn't blame you), then you're welcome to join our <a href="">Discord Server</a>. Sometimes you just want to get to the point, or maybe you just feel like hanging around and talking robots. Either way, feel free to hop in and talk to the team directly, we'd be glad to help with any questions or even just talk.
+If "official" or "formal" communication isn't your style (we wouldn't blame you), then you're welcome to join our <a href="https://discord.gg/E8jsaMf2SU">Discord Server</a>. Sometimes you just want to get to the point, or maybe you just feel like hanging around and talking robots. Either way, feel free to hop in and talk to the team directly, we'd be glad to help with any questions or even just talk.
 </p>
