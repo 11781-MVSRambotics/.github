@@ -12,8 +12,11 @@ We are team 11781 MVS Rambotics, the official team of The Miami Valley School in
 
 <p>
 Our team outreach initiative this season has been paving the way for the next generation of FIRST. We have worked with middle school students in both the creation of a FIRST-style challenge for the Makerspace class and the after-school coding intensive. For the greater Miami Valley School community, the Rambotics organized and staffed the Makers Faire, a showcase of the computer science department spanning all grade levels K-12. Sustainability has also been a major focus this season. Our sustainability initiative includes a partnership with our school's Green Club to collect recycled plastic from the community and convert it into 3D printer filament. For more information visit the outreach section of our engineering portfolio.
+</p>
+
 # Team Contacts
 
+<p>
 Our team is always excited by opportunities to meet others and share our knowledge. We especially want to extend our reach to those outside our immediate community. In the spirit of FTC, we treasure any opportunities to reach out. To that end, there are many ways to contact us. Whether you hope to talk robot or software design, practice games and team mentorship, or just support our cause, you can find us at any of the places below.
 </p>
 
